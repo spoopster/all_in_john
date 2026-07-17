@@ -1,0 +1,11 @@
+<items gfxroot="gfx_allinjohn/items/" version="1" deathanm2="gfx/death_items.anm2" >
+    <active id="0" name="Guess the Jest!"
+        description="On-demand jokers"
+        gfx="guess_the_jest.png"
+        quality="4"
+        tags="offensive"
+        cache=""
+
+        maxcharges="6"
+    />
+</items>

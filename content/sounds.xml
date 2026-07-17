@@ -1,0 +1,29 @@
+<sounds root="sfx_allinjohn/">
+	<sound name="AIJ - Balance">
+		<sample weight="1" path="balance.wav" />
+	</sound>
+	<sound name="AIJ - Cash">
+		<sample weight="1" path="cash.wav" />
+	</sound>
+	<sound name="AIJ - Foil">
+		<sample weight="1" path="foil.wav" />
+	</sound>
+	<sound name="AIJ - Forge">
+		<sample weight="1" path="hammer_forge.wav" />
+	</sound>
+	<sound name="AIJ - Jimbo">
+		<sample weight="1" path="jimbo_talk.wav" />
+	</sound>
+	<sound name="AIJ - Joker">
+		<sample weight="1" path="jokeradd.wav" />
+	</sound>
+	<sound name="AIJ - Mult">
+		<sample weight="1" path="mult.wav" />
+	</sound>
+	<sound name="AIJ - XMult">
+		<sample weight="1" path="xmult.wav" />
+	</sound>
+	<sound name="AIJ - Polychrome">
+		<sample weight="1" path="polychrome.wav" />
+	</sound>
+</sounds>

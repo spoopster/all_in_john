@@ -1,0 +1,67 @@
+<pocketitems>
+<!-- CARDS -->
+    <card id="0" name="Little Boy Blue"
+        description="Only tears"
+        hud="Little Boy Blue"
+        type="special"
+        pickup="975"
+
+        mimiccharge="6"
+    />
+    <card id="1" name="Hat Trick"
+        description="Block damage sometimes"
+        hud="Hat Trick"
+        type="special"
+        pickup="975"
+
+        mimiccharge="12"
+    />
+    <card id="2" name="Comedian's Manifesto"
+        description="We the people"
+        hud="Comedian's Manifesto"
+        type="special"
+        pickup="975"
+
+        mimiccharge="12"
+    />
+    <card id="3" name="Lexicon"
+        description="ABCDEFG..."
+        hud="Lexicon"
+        type="special"
+        pickup="975"
+
+        mimiccharge="3"
+    />
+    <card id="4" name="Gnasher"
+        description="Consumable duplicator"
+        hud="Gnasher"
+        type="special"
+        pickup="975"
+
+        mimiccharge="5"
+    />
+    <card id="5" name="Silvio"
+        description="Charged destiny"
+        hud="Silvio"
+        type="special"
+        pickup="975"
+
+        mimiccharge="2"
+    />
+    <card id="6" name="Eulenspiegel"
+        description="In a loop"
+        hud="Eulenspiegel"
+        type="special"
+        pickup="975"
+
+        mimiccharge="12"
+    />
+    <card id="7" name="Coconut"
+        description="Temporary room"
+        hud="Coconut"
+        type="special"
+        pickup="975"
+
+        mimiccharge="12"
+    />
+</pocketitems>
