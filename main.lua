@@ -30,7 +30,7 @@ include("scripts_allinjohn.cards.silvio")
 include("scripts_allinjohn.cards.eulenspiegel")
 include("scripts_allinjohn.cards.coconut")
 
---include("scripts_allinjohn.items.double_sided_card")
+include("scripts_allinjohn.items.guess_the_jest")
 
 include("scripts_allinjohn.eid")
 include("scripts_allinjohn.minimapi")

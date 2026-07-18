@@ -1,3 +1,15 @@
 <ItemPools>
+    <Pool Name="shop">
+        <Item Name="Guess the Jest!" Weight="0.5" DecreaseBy="0.5"/>
+    </Pool>
+    <Pool Name="greedShop">
+        <Item Name="Guess the Jest!" Weight="0.5" DecreaseBy="0.5"/>
+    </Pool>
 
+    <Pool Name="secret">
+        <Item Name="Guess the Jest!"/>
+    </Pool>
+    <Pool Name="greedSecret">
+        <Item Name="Guess the Jest!"/>
+    </Pool>
 </ItemPools>
