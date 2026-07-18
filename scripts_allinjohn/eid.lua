@@ -56,17 +56,13 @@ local cardDescs = {
 }
 
 local itemDescs = {
-    --[[] ]
-    [AllInJohn.COLLECTIBLE_DOUBLE_SIDED_CARD] = {
-        Name = "Double-Sided Card",
+    [AllInJohn.COLLECTIBLE_GUESS_THE_JEST] = {
+        Name = "Guess the Jest!",
         Desc = {
-            "{{CardbackFlipFlopRed}} When used at full charge, spawns a random flip-flop card",
-            "When used at partial charge, consumes 1 pip and morphs held cards:",
-            "{{CardbackFlipFlopRed}} Regular <-> flipped flip-flop cards",
-            "{{Card}} Regular <-> reverse tarot cards"
+            "{{CardbackAllInJohn}} Spawns 3 random \"All in {{AllInJohn}}John\" (or \"All in {{AllInJane}}Jane\") cards",
+            "Only 1 can be picked"
         }
     }
-    --]]
 }
 
 local iconSprite = Sprite("gfx_allinjohn/ui/ui_eid_cards.anm2", true)
@@ -80,6 +76,9 @@ EID:addIcon("Card"..tostring(AllInJohn.CARD_EULENSPIEGEL), "Cards", 6, 16, 16, 0
 EID:addIcon("Card"..tostring(AllInJohn.CARD_COCONUT), "Cards", 7, 16, 16, 0, 0, iconSprite)
 
 EID:addIcon("CardbackAllInJohn", "Cardbacks", 0, 16, 16, 0, 0, iconSprite)
+
+EID:addIcon("AllInJohn", "Misc", 0, 16, 16, 0, 0, iconSprite)
+EID:addIcon("AllInJane", "Misc", 1, 16, 16, 0, 0, iconSprite)
 
 ---@param stringTable string[]
 local function turnStringTableToDesc(stringTable)
