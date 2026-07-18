@@ -7,7 +7,7 @@ AllInJohn.CARD_SILVIO = Isaac.GetCardIdByName("Silvio")
 AllInJohn.CARD_EULENSPIEGEL = Isaac.GetCardIdByName("Eulenspiegel")
 AllInJohn.CARD_COCONUT = Isaac.GetCardIdByName("Coconut")
 
-AllInJohn.COLLECTIBLE_GUESS_THE_JEST = Isaac.GetCardIdByName("Guess the Jest!")
+AllInJohn.COLLECTIBLE_GUESS_THE_JEST = Isaac.GetItemIdByName("Guess the Jest!")
 
 AllInJohn.SFX_BALANCE = Isaac.GetSoundIdByName("AIJ - Balance")
 AllInJohn.SFX_CASH = Isaac.GetSoundIdByName("AIJ - Cash")
